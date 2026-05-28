@@ -1,19 +1,21 @@
-Hi, I’m Saffan Nagani  
+**Hi, I'm Saffan Nagani** 
 
-I am an Economics undergraduate (graduating May 2026) building skills in data and operations analytics.
+I'm an Economics graduate (May 2026) building skills in data and Supply Chain analytics.
 
-I am interested in entry-level roles such as:
+I'm interested in entry-level roles including:
 - Data Analyst
 - Business Analyst
 - Operations Analyst
 
-Skills:
+##  Skills
 - Excel (Pivot Tables, advanced formulas, dashboards)
 - Data cleaning and analysis
-- SQL (learning)
+- SQL
 - Business and economic analysis
+- ArcGIS
 
-This GitHub contains practical, business-focused analytics projects related to:
-- Logistics and supply chain analysis
+##  About This GitHub
+This repository contains practical, business-focused analytics projects across:
+- Supply Chain and Logistics analysis
 - Cost optimization
 - Data cleaning and reporting
