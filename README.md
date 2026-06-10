@@ -11,6 +11,7 @@ I'm interested in entry-level roles including:
 - Excel (Pivot Tables, advanced formulas, dashboards)
 - Data cleaning and analysis
 - SQL
+- Power BI
 - Business and economic analysis
 - ArcGIS
 
